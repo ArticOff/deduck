@@ -10,7 +10,7 @@ Hi! explain your problem to me... quack! quack!
 
 ## Installation
 
-Install info with pip
+Install deduck with pip
 
 ```bash
 # Linux/macOS
